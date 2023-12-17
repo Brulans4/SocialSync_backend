@@ -5,10 +5,7 @@ const cookieSession = require('cookie-session');
 const cors = require('cors');
 
 const corsOptions = {
-  origin: ['http://localhost:8080', 'https://brulans4.github.io'],
-  credentials: true,
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
-  allowedHeaders: ['Content-Type', 'Authorization'],
+  origin: ['http://localhost:8080', 'https://brulans4.github.io/SocialSync'],
 };
 
 const authsRouter = require('./routes/auths');
