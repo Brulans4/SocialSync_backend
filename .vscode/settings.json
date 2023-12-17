@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/de661057-091a-4dbb-97d3-ba7befb98f01/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SocialSync",
+  "appService.deploySubpath": "."
+}
